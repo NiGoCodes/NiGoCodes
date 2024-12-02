@@ -5,8 +5,13 @@
 </p>
 
 # 💫 About Me:
-👋Hey There! I am Nikhilesh Goswami<br><br>
-I am a tech enthusiast from India who loves solving problems through competitive programming and web development. I enjoy taking creative ideas and turning them into useful solutions. My curiosity drives me to keep learning and growing in the tech world every day. 🌟<br><br>I am currently mastering the MERN stack, honing my skills to create dynamic web applications that bring ideas to life. 💻✨<br><br>I would love to connect! Feel free to reach out via email at nigocodes@gmail.com. 📧<br><br>Outside of programming, I am passionate about fitness 🏋️‍♂️. I also love solving brain teasers 🧩, which keeps my mind sharp! 🤔<br><br>
+👋Hey There! I am Nikhilesh Goswami<br>
+- I am a tech enthusiast from India who loves solving problems through competitive programming and web development.  
+- Passionate about turning creative ideas into useful solutions.  
+- Curiosity drives me to keep learning and growing in the tech world every day. 🌟  
+- Currently mastering the MERN stack to create dynamic web applications that bring ideas to life. 💻✨  
+- Open to connections! Feel free to reach out via email at **[nigocodes@gmail.com](mailto:nigocodes@gmail.com)**. 📧  
+- Outside of programming, I am passionate about fitness 🏋️‍♂️ and enjoy solving brain teasers 🧩 to keep my mind sharp. 🤔 
 
 
 ## 🌐 Socials:
