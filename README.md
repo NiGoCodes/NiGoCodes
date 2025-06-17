@@ -8,7 +8,6 @@
 👋Hey There! I am Nikhilesh Goswami<br>
 - I am a tech enthusiast from India who loves solving problems through competitive programming and web development.  
 - Passionate about turning creative ideas into useful solutions.  
-- Curiosity drives me to keep learning and growing in the tech world every day. 🌟  
 - Currently mastering the MERN stack to create dynamic web applications that bring ideas to life. 💻✨  
 - Open to connections! Feel free to reach out via email at **[nigocodes@gmail.com](mailto:nigocodes@gmail.com)**. 📧  
 - Outside of programming, I am passionate about fitness 🏋️‍♂️ and enjoy solving brain teasers 🧩 to keep my mind sharp. 🤔 
